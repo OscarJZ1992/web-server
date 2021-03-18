@@ -1,0 +1,23 @@
+{
+  "name": "web-server",
+  "version": "0.0.1",
+  "description": "Primer webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarJZ1992/web-server.git"
+  },
+  "author": "Oscar Jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarJZ1992/web-server/issues"
+  },
+  "homepage": "https://github.com/OscarJZ1992/web-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
